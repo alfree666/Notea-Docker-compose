@@ -29,7 +29,7 @@ services:
       STORE_BUCKET: notea
       STORE_END_POINT: http://minio:9000
       STORE_FORCE_PATH_STYLE: "true"
-      PASSWORD: notea
+      PASSWORD: p4sww0rd
       COOKIE_SECURE: "false"
       BASE_URL: http://localhost:8200/
     depends_on:
